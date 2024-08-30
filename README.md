@@ -10,11 +10,6 @@
 <li>Information Management: Gather and organize personal or business information.</li>
 <li>Communication and Interaction: Engage the audience and gather opinions on various topics</li>
 
-<h2>Technologies Used</h2>
-
-<li>HTML</li>
-<li>CSS</li>
-
 <h2>Usege</h2>
 
 <li>Data Collection</li>
@@ -33,6 +28,10 @@
   <h3>3. Responsive Design</h3>
   <ul><p>I started with responsive design for my project.</p></ul>
 
+<h2>Technologies Used</h2>
+
+<li>HTML</li>
+<li>CSS</li>
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! If you have suggestions or enhancements, please fork the repository and submit a pull request. Your contributions will help improve the functionality and usability of this application.</p>
