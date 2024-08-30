@@ -1,4 +1,4 @@
-<h1>Formulario de Pesquisa</h2>
+<h1>Formulario de Pesquisa</h1>
 
 <h2>Project Overview</h2>
 
